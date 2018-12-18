@@ -7,3 +7,4 @@ public class WelcomePageDoa
 		System.out.println("In insert data - "+firstName+" "+lastName);
 	}
 }
+//changes 2
